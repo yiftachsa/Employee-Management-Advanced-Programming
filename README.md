@@ -25,3 +25,8 @@ This project contains two calsses:
 * '++' operator - add 100 cash to the employee salary.
 * '+' operator - concatenate the names of the employees.
 * '<<' operator - prints the employee information.
+
+
+<p align="center">
+<img src="https://in.bgu.ac.il/marketing/DocLib/Pages/graphics/heb-en-arabic-logo-small.png">
+</p>
